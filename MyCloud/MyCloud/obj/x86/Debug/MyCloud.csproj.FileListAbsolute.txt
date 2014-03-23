@@ -1,0 +1,17 @@
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\MyCloud.exe
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\MyCloud.pdb
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\DropNet.dll
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\RestSharp.dll
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\RestSharp.xml
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MainWindow.baml
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MainWindow.g.cs
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\App.g.cs
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud_MarkupCompile.cache
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.g.resources
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.Properties.Resources.resources
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.csproj.GenerateResource.Cache
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.exe
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.pdb
+c:\users\hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.Form1.resources
+C:\Users\Hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\obj\x86\Debug\MyCloud.csprojResolveAssemblyReference.cache
+C:\Users\Hiike\documents\visual studio 2010\Projects\MyCloud\MyCloud\bin\Debug\MyCloud.exe.config

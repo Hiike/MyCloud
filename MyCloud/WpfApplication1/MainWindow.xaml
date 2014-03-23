@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="543" Width="864" MaxHeight="543" MaxWidth="864">
+    <Grid Height="510" Width="847">
+        <Button Content="Connect to DropBox" Height="23" HorizontalAlignment="Left" Margin="181,32,0,0" x:Name="CoDB" VerticalAlignment="Top" Width="125" Click="btn_CoDB" />
+        <CheckBox Content="Remember me" Height="16" HorizontalAlignment="Left" Margin="312,52,0,0" x:Name="check1" VerticalAlignment="Top" />
+        <ListBox Height="52" HorizontalAlignment="Left" Margin="12,32,0,0" Name="listBox1" VerticalAlignment="Top" Width="160" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="12,12,0,0" Name="textBlock1" Text="Select account" VerticalAlignment="Top" />
+        <WebBrowser Height="408" HorizontalAlignment="Left" Margin="12,90,0,0" Name="ConnectWB" VerticalAlignment="Top" Width="395" Navigated="ConnectWB_Navigated" />
+        <ListBox Height="408" x:Name="itemList" HorizontalAlignment="Left" Margin="413,90,0,0" VerticalAlignment="Top" Width="422">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <StackPanel Orientation="Horizontal">
+                            <Image Height="36" Margin="10" Width="36" Source="{Binding Icon}"/>
+                            <TextBlock Height="36" Text="{Binding Name}" Margin="37,0,0,0" MouseLeftButtonUp="item_isSelected" />
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Connect to OneDrive" Height="23" HorizontalAlignment="Left" Margin="181,61,0,0" Name="ConnectOD" VerticalAlignment="Top" Width="125" Click="ConnectOD_Click" />
+        <Button Content="Previous" Height="23" HorizontalAlignment="Left" Margin="413,61,0,0" Name="Previous" VerticalAlignment="Top" Width="75" Click="Previous_Click" />
+    </Grid>
+</Window>
